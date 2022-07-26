@@ -21,4 +21,6 @@ open terminal in the repo's folder
 Type `python or python3 wp-dir.py [url]`
 
 # Usage :
-```python wp-dir.py https:your-wordpress-site.com```
+```
+python wp-dir.py https:your-wordpress-site.com
+```
