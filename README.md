@@ -3,13 +3,8 @@ WordPress Directory Finder helps to find list of available wordpress (routes) wh
 
 # Installation
 
-<br>
 <h2>Method 1 : Using Git</h2>
-```
-git status
-git add
-git commit
-```
+
 ```
 git clone https://github.com/Sundar-exe/WordPress-Directory.git wp-dir
 ```
@@ -26,4 +21,4 @@ open terminal in the repo's folder
 Type `python or python3 wp-dir.py [url]`
 
 # Usage :
-`python wp-dir.py https:your-wordpress-site.com`
+```python wp-dir.py https:your-wordpress-site.com```
