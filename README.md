@@ -2,6 +2,11 @@
 WordPress Directory Finder helps to find list of available wordpress (routes) which is set default on installing wordpress.
 
 # Installation
+```
+git status
+git add
+git commit
+```
 <br>
 <h2>Method 1 : Using Git</h2>
 ```
